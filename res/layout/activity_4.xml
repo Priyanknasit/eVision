@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:weightSum="3"
+        android:background="#ffffff"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="false"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_toStartOf="@+id/btn2"
+            android:layout_weight="1"
+            android:background="@drawable/btn_background_white"
+            android:drawableTop="@drawable/ic_navigation"
+
+            android:fontFamily="@font/googlesans"
+
+            android:gravity="center|center_horizontal"
+            android:minWidth="100dp"
+            android:minHeight="250dp"
+            android:paddingTop="10dp"
+            android:text="Route\nNavigation"
+            android:textColor="#0e6cd1"
+            android:textSize="19sp" />
+
+        <Button
+            android:id="@+id/btn2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/googlesans"
+            android:background="@drawable/btn_background_white"
+            android:drawableTop="@drawable/ic_ocr"
+            android:paddingTop="15dp"
+            android:text="OCR"
+            android:textColor="#0e6cd1"
+            android:textSize="19sp" />
+
+        <Button
+            android:id="@+id/btn5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_background_white"
+            android:drawableTop="@drawable/ic_help"
+            android:fontFamily="@font/googlesans"
+            android:paddingTop="25dp"
+
+            android:text="Help\n"
+            android:textColor="#0e6cd1"
+            android:textSize="19sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#ffffff"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/btn1"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_background_white"
+            android:drawableTop="@drawable/ic_loc"
+            android:fontFamily="@font/googlesans"
+            android:paddingTop="20dp"
+            android:text="Location"
+            android:textColor="#0e6cd1"
+            android:textSize="19sp" />
+
+        <Button
+            android:id="@+id/btn4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/btn2"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="10dp"
+            android:layout_toEndOf="@+id/btn3"
+            android:layout_weight="1"
+            android:background="@drawable/btn_background_white"
+            android:drawableTop="@drawable/ic_objectdect"
+            android:fontFamily="@font/googlesans"
+            android:paddingTop="18dp"
+            android:text="Object\nDetection"
+            android:textColor="#0e6cd1"
+            android:textSize="19sp" />
+
+        <Button
+            android:id="@+id/btn6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_background_white"
+            android:drawableTop="@drawable/ic_more"
+            android:elevation="30sp"
+            android:fontFamily="@font/googlesans"
+            android:paddingTop="25dp"
+            android:paddingBottom="8dp"
+            android:text="More\nfeatures"
+            android:textColor="#0e6cd1"
+            android:textSize="19sp" />
+    </LinearLayout>
+
+</LinearLayout>

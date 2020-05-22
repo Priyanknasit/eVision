@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".LocationActivity">
+
+    <Button
+        android:id="@+id/helpBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+
+        android:background="@drawable/text_area"
+
+        android:contentDescription="Send message asking for help to friends!"
+        android:drawableStart="@drawable/ic_help2"
+        android:drawableLeft="@drawable/ic_help2"
+        android:drawableRight="@drawable/ic_help2"
+        android:drawablePadding="20dp"
+        android:elevation="5dp"
+        android:fontFamily="@font/googlesans"
+        android:gravity="left"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
+        android:paddingLeft="85dp"
+        android:paddingTop="5dp"
+        android:paddingRight="70dp"
+        android:paddingBottom="0dp"
+        android:stateListAnimator="@null"
+        android:text="Help "
+        android:textAllCaps="false"
+        android:textColor="@color/blue"
+        android:textSize="40sp"
+        android:translationZ="1dp" />
+
+    <TextView
+        android:id="@+id/locationTV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/speechBtn"
+        android:layout_below="@+id/helpBtn"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/loc_tv"
+
+        android:fontFamily="@font/googlesans"
+        android:hint="@string/location_text"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
+        android:padding="10dp"
+        android:text="@string/location_text"
+        android:textColor="#0E6CD1"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/speechBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/text_area_2"
+        android:drawableStart="@drawable/mic"
+        android:drawableLeft="@drawable/mic"
+        android:fontFamily="@font/googlesans"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
+        android:padding="15dp"
+        android:paddingStart="20dp"
+        android:paddingEnd="25dp"
+        android:text="@string/speechB_text"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/addFriendBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/text_area_2"
+        android:drawableStart="@drawable/add_icn"
+        android:drawableLeft="@drawable/add_icn"
+        android:fontFamily="@font/googlesans"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
+        android:padding="10dp"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:text="@string/add_friend"
+        android:textAllCaps="false"
+        android:textColor="#ffffff" />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,84 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\home\\ihab\\AndroidStudioProjects\\AngelEyes\\android\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "map": [
+                {
+                    "source": "D:\\home\\ihab\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\6edf2d3225d3ddb662856f8dff956613\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,456,614,764,936,1164,1406,1577,1751,1920,2193,2393,2597",
+                        "endLines": "4,8,11,14,17,21,25,28,31,34,38,41,45,49",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,609,759,931,1159,1401,1572,1746,1915,2188,2388,2592,2921"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Rikin\\Documents\\collage\\hack2020\\final\\Angel-Eyes-master\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Rikin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4223979c5c5c034b26629581093fa27b\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,456,614,764,936,1161,1331,1559,1783,2025,2196,2370,2539,2812,3012,3216",
+                        "endLines": "4,8,11,14,17,21,24,28,32,36,39,42,45,49,52,56,60",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,609,759,931,1156,1326,1554,1778,2020,2191,2365,2534,2807,3007,3211,3540"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\study\\Hackathon\\SSIP_hack_2019-20\\Blind\\Project\\Final_done\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\fe9f04f13febfb8f37b37052ce387829\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,456,614,764,936,1161,1331,1559,1783,2025,2196,2370,2539,2812,3012,3216",
+                        "endLines": "4,8,11,14,17,21,24,28,32,36,39,42,45,49,52,56,60",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,609,759,931,1156,1326,1554,1778,2020,2191,2365,2534,2807,3007,3211,3540"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Angel-Eyes-master\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vnaga\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\f91166ec1c330179973a7f64a414bf0d\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,456,614,764,936,1164,1406,1577,1751,1920,2193,2393,2597",
+                        "endLines": "4,8,11,14,17,21,25,28,31,34,38,41,45,49",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,609,759,931,1159,1401,1572,1746,1915,2188,2388,2592,2921"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\home\\ihab\\git\\AngelEyes\\android\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "map": [
+                {
+                    "source": "D:\\home\\ihab\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\6edf2d3225d3ddb662856f8dff956613\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,456,614,764,936,1164,1406,1577,1751,1920,2193,2393,2597",
+                        "endLines": "4,8,11,14,17,21,25,28,31,34,38,41,45,49",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,609,759,931,1159,1401,1572,1746,1915,2188,2388,2592,2921"
+                    }
+                }
+            ]
+        }
+    ]
+}

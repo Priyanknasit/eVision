@@ -1,0 +1,485 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\study\\Hackathon\\SSIP_hack_2019-20\\Blind\\Project\\Final_done\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\fe9f04f13febfb8f37b37052ce387829\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "212,281,350,420,494,570,629,700",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "276,345,415,489,565,624,695,763"
+                    }
+                },
+                {
+                    "source": "D:\\study\\Hackathon\\SSIP_hack_2019-20\\Blind\\Project\\Final_done\\res\\values-sw600dp\\template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "669,737",
+                        "endColumns": "67,67",
+                        "endOffsets": "732,800"
+                    },
+                    "to": {
+                        "startLines": "22,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "1330,1398",
+                        "endColumns": "67,67",
+                        "endOffsets": "1393,1461"
+                    }
+                },
+                {
+                    "source": "D:\\study\\Hackathon\\SSIP_hack_2019-20\\Blind\\Project\\Final_done\\res\\values-sw600dp\\google_maps_api.xml",
+                    "from": {
+                        "startLines": "21",
+                        "startColumns": "2",
+                        "startOffsets": "817",
+                        "endLines": "24",
+                        "endColumns": "11",
+                        "endOffsets": "977"
+                    },
+                    "to": {
+                        "startLines": "26",
+                        "startColumns": "4",
+                        "startOffsets": "1577",
+                        "endLines": "29",
+                        "endColumns": "11",
+                        "endOffsets": "1737"
+                    }
+                },
+                {
+                    "source": "D:\\study\\Hackathon\\SSIP_hack_2019-20\\Blind\\Project\\Final_done\\res\\values-sw600dp\\template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "634",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "874"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "1914",
+                        "endLines": "38",
+                        "endColumns": "12",
+                        "endOffsets": "2154"
+                    }
+                },
+                {
+                    "source": "D:\\study\\Hackathon\\SSIP_hack_2019-20\\Blind\\Project\\Final_done\\res\\values-sw600dp\\eVision_back.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "46",
+                        "endOffsets": "99"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                },
+                {
+                    "source": "D:\\study\\Hackathon\\SSIP_hack_2019-20\\Blind\\Project\\Final_done\\res\\values-sw600dp\\evision_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "61",
+                        "endOffsets": "114"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "150",
+                        "endColumns": "61",
+                        "endOffsets": "207"
+                    }
+                },
+                {
+                    "source": "D:\\study\\Hackathon\\SSIP_hack_2019-20\\Blind\\Project\\Final_done\\res\\values-sw600dp\\ev_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "47",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endColumns": "47",
+                        "endOffsets": "145"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\bc4f74ff4081f8eba0307aa091ac7588\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,553,617,680",
+                        "endLines": "2,3,4,5,6,7,9,10,11,15",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "110,180,251,323,381,439,548,612,675,847"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16,17,18,19,21,25,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "768,828,898,969,1041,1099,1157,1266,1514,1742",
+                        "endLines": "13,14,15,16,17,18,20,21,25,33",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "823,893,964,1036,1094,1152,1261,1325,1572,1909"
+                    }
+                },
+                {
+                    "source": "D:\\study\\Hackathon\\SSIP_hack_2019-20\\Blind\\Project\\Final_done\\res\\values-sw600dp\\integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "24",
+                        "startColumns": "4",
+                        "startOffsets": "1466",
+                        "endColumns": "47",
+                        "endOffsets": "1509"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\home\\ihab\\git\\AngelEyes\\android\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\home\\ihab\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\6edf2d3225d3ddb662856f8dff956613\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "D:\\home\\ihab\\git\\AngelEyes\\android\\res\\values-sw600dp\\template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "669,737",
+                        "endColumns": "67,67",
+                        "endOffsets": "732,800"
+                    },
+                    "to": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "611,679",
+                        "endColumns": "67,67",
+                        "endOffsets": "674,742"
+                    }
+                },
+                {
+                    "source": "D:\\home\\ihab\\git\\AngelEyes\\android\\res\\values-sw600dp\\template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "634",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "874"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "747",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "987"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Rikin\\Documents\\collage\\hack2020\\final\\Angel-Eyes-master\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Rikin\\Documents\\collage\\hack2020\\final\\Angel-Eyes-master\\res\\values-sw600dp\\google_maps_api.xml",
+                    "from": {
+                        "startLines": "21",
+                        "startColumns": "2",
+                        "startOffsets": "817",
+                        "endLines": "24",
+                        "endColumns": "11",
+                        "endOffsets": "977"
+                    },
+                    "to": {
+                        "startLines": "26",
+                        "startColumns": "4",
+                        "startOffsets": "1577",
+                        "endLines": "29",
+                        "endColumns": "11",
+                        "endOffsets": "1737"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Rikin\\Documents\\collage\\hack2020\\final\\Angel-Eyes-master\\res\\values-sw600dp\\integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "24",
+                        "startColumns": "4",
+                        "startOffsets": "1466",
+                        "endColumns": "47",
+                        "endOffsets": "1509"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Rikin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4223979c5c5c034b26629581093fa27b\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "212,281,350,420,494,570,629,700",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "276,345,415,489,565,624,695,763"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Rikin\\Documents\\collage\\hack2020\\final\\Angel-Eyes-master\\res\\values-sw600dp\\eVision_back.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "46",
+                        "endOffsets": "99"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Rikin\\Documents\\collage\\hack2020\\final\\Angel-Eyes-master\\res\\values-sw600dp\\evision_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "61",
+                        "endOffsets": "114"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "150",
+                        "endColumns": "61",
+                        "endOffsets": "207"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Rikin\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\1a9dc367de02781dbb7ef9070d7774e7\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,553,617,680",
+                        "endLines": "2,3,4,5,6,7,9,10,11,15",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "110,180,251,323,381,439,548,612,675,847"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16,17,18,19,21,25,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "768,828,898,969,1041,1099,1157,1266,1514,1742",
+                        "endLines": "13,14,15,16,17,18,20,21,25,33",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "823,893,964,1036,1094,1152,1261,1325,1572,1909"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Rikin\\Documents\\collage\\hack2020\\final\\Angel-Eyes-master\\res\\values-sw600dp\\template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "669,737",
+                        "endColumns": "67,67",
+                        "endOffsets": "732,800"
+                    },
+                    "to": {
+                        "startLines": "22,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "1330,1398",
+                        "endColumns": "67,67",
+                        "endOffsets": "1393,1461"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Rikin\\Documents\\collage\\hack2020\\final\\Angel-Eyes-master\\res\\values-sw600dp\\ev_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "47",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endColumns": "47",
+                        "endOffsets": "145"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Rikin\\Documents\\collage\\hack2020\\final\\Angel-Eyes-master\\res\\values-sw600dp\\template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "634",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "874"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "1914",
+                        "endLines": "38",
+                        "endColumns": "12",
+                        "endOffsets": "2154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\home\\ihab\\AndroidStudioProjects\\AngelEyes\\android\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\home\\ihab\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\6edf2d3225d3ddb662856f8dff956613\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "D:\\home\\ihab\\AndroidStudioProjects\\AngelEyes\\android\\res\\values-sw600dp\\template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "669,737",
+                        "endColumns": "67,67",
+                        "endOffsets": "732,800"
+                    },
+                    "to": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "611,679",
+                        "endColumns": "67,67",
+                        "endOffsets": "674,742"
+                    }
+                },
+                {
+                    "source": "D:\\home\\ihab\\AndroidStudioProjects\\AngelEyes\\android\\res\\values-sw600dp\\template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "634",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "874"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "747",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "987"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Angel-Eyes-master\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Angel-Eyes-master\\res\\values-sw600dp\\template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "669,737",
+                        "endColumns": "67,67",
+                        "endOffsets": "732,800"
+                    },
+                    "to": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "611,679",
+                        "endColumns": "67,67",
+                        "endOffsets": "674,742"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vnaga\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\f91166ec1c330179973a7f64a414bf0d\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "D:\\Angel-Eyes-master\\res\\values-sw600dp\\template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "634",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "874"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "747",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "987"
+                    }
+                }
+            ]
+        }
+    ]
+}

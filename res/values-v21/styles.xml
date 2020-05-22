@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="actionBarStyle">@style/ActionBarStyle</item>
+        <item name="windowActionBar">false</item>
+
+	    <item name="colorPrimary">@color/main_color_500</item>
+	    <item name="colorPrimaryDark">@color/main_color_700</item>
+
+    </style>
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#ffffff</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+</resources>

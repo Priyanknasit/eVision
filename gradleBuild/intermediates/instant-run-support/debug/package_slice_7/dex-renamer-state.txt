@@ -1,0 +1,4 @@
+#Wed Feb 26 10:14:47 IST 2020
+base.0=D\:\\Angel-Eyes-master\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\65
+path.0=classes.dex
+renamed.0=classes.dex
